@@ -28,7 +28,7 @@ This project creates a _Retailer Database_ to manage essential retail operations
 
 ## Detailed SQL Queries
 
-![SQL Queries](./Retailer_DB-Document.pdf)
+[Project Documentation PDF](./Retailer_DB-Document.pdf)
 
 ### Features
 
